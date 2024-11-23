@@ -1,0 +1,26 @@
+fieldset{width: 400px;
+     border-radius: 19px; 
+     border-color: blue; 
+    margin-left: 100px;
+    margin-top: 100px;
+    display: inline; 
+    position: absolute;}
+legend{text-align: center; 
+    font-style: italic;
+     font-size: 30px;
+     color: peru;}
+#name ,#password ,#email{width: 300px;
+      border-radius: 8px;
+    text-align: center;
+      font-style: oblique; 
+    color: fuchsia;
+    font-size: 30px;}
+button{
+    background-color: red;
+    color: antiquewhite;
+    border-radius: 8px;}
+body{background-color: bisque;}
+table{display: inline;
+      position: absolute;
+      margin-left: 700px;
+      border-radius: 4px;}
